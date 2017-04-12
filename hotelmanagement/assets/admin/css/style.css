@@ -1,0 +1,141 @@
+*{
+	margin:0px auto;
+	padding:0px;
+}
+.padd-left0{
+	padding-left:0px;
+}
+
+.top-bar{
+	background:#0071B5;
+	min-height:50px;
+	color:#fff;
+	width:100%;
+}
+.top-bar p{
+	font-size:20px;
+	padding: 10px 0px 0px;
+	text-transform: capitalize;
+}
+.fix-sidebar{
+	background:#333;
+	min-height:610px;
+	padding-top: 15px;
+}
+.fix-sidebar h2{
+	color:#fff;
+}
+.nav-pills > li > a {
+    border-radius: 0px;
+	color:#999;
+}
+.ico-big {
+    font-size:20px;
+	padding-right: 10px;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #fff;
+	background-color: #750000;
+	font-weight: bold;
+}
+ .nav > li > a:hover, .nav > li > a:focus {
+    color: #fff;
+	background-color: #750000;
+}
+
+
+
+
+.section-bar{
+	background:#fff;
+	min-height: 300px;
+	padding: 40px 0px;
+}
+.table{
+	font-size:12px !important;
+}
+.table thead tr th:last-child{
+	text-align:center;
+}
+#mall_brand1{
+   display:none;
+}
+img.logo-bsckend {
+    width: 75px;
+	max-height: 45px;
+}
+#img-edit img {
+    width: 100%;
+}
+.ind-sec{
+	display:none;
+}
+
+.fa1{
+	color: #9C0000;
+}
+.fa2{
+	margin-left: -20px;
+    color: #999;
+}
+#img-edit3{
+	display:none;
+}
+
+#img-edit2 img {
+    width: 100%;
+}
+
+.headinlong {
+	font-weight: 600;
+	margin: 0px 0px 20px;
+}
+
+.text-info1 {
+margin-top: 0px;
+}
+
+.r-active {
+	background: rgb(255, 221, 0) none repeat scroll 0% 0%;
+}
+.r-active a {
+		color: rgb(0, 0, 0);
+	}
+.right-sort li a:hover {
+	text-decoration: none;
+}
+.right-sort li {
+	list-style: outside none none;
+	display: inline-block;
+	line-height: 1em;
+	position: relative;
+	padding: 10px 15px;
+}
+
+.p-field {
+    display: none;
+}
+
+#imgup {
+    cursor:pointer;
+}
+
+.paginationlinks {
+    text-align: right;
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.paginationlinks strong {
+    padding: 5px;
+    margin: 2px;
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+.paginationlinks a {
+    padding: 5px;
+    background-color: #0071B5;
+    color: #fff;
+    margin: 2px;
+}
